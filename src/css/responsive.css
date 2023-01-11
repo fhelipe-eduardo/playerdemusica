@@ -1,0 +1,14 @@
+@media (max-width: 670px) {
+    #app {
+        display: flex;
+        flex-direction: column;
+        max-width: 270px;
+        margin: auto;
+        height: auto;
+        padding-block: 60px;
+    }
+
+    .horizontal .controls {
+        padding-inline: 30px;
+    }
+}
